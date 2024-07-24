@@ -59,3 +59,12 @@ Level 2 - Defence -> They are trying to retaliate, defend the Eco-Platform. It�
 Level 3 - A One on one against an elite fighter.
 Level 4 - Field Skirmish -> We have found a pack of enemy ships, neutralise the targets.
 Level 5 - Survival -> You’re on you’re own. Survive for as long as possible. We are sending re enforcements.
+
+*Videos*
+
+Trailer
+[![Preview](https://img.youtube.com/vi/xtKSuuuMhUg/maxresdefault.jpg)](https://youtu.be/xtKSuuuMhUg)
+
+Gameplay Demo
+[![Preview](https://img.youtube.com/vi/ph0yB4UdcRM/maxresdefault.jpg)](https://youtu.be/ph0yB4UdcRM)
+
