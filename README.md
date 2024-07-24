@@ -2,11 +2,11 @@
 
 Fabula Nova Corp’s reign of terror has finally reached Earth. They are installing orbital HARvEsT beams, allowing free exploitation of the planet’s resources as well as amassing a formidable military precise in our star system. A specialist agency has been assembled to combat this extraterrestrial threat. From the source. Destroy Nova Installations, neutralise their military threat.
 
-Controls
+**Controls**
 
 ![controls](https://imgur.com/bjfgk5U.jpg)
 
-UI GUIDE
+**UI Guide**
 
 ![UI Preview](https://imgur.com/kTyI5Wc.jpg)
 
@@ -33,7 +33,7 @@ UI GUIDE
 
 # Basic Training 
 
-Dogfighting
+**Dogfighting**
 
 The aim of dogfighting is to get behind your opponent where you can attack from. You can do this by using any variety of manoeuvres. 
 
@@ -46,13 +46,13 @@ When using your lasers, ensure they do not overheat. This will result in you hav
 
 Use R to look around and re-acquire targets that may have evaded you. Combined with your ships tracking features, no target can stay hidden or under your radar.
 
-Target Lock 
+**Target Lock**
 
 Press T to iterate through targets. 
 When a target is selected, a white square appears around the target. 
 In order to acquire a missile lock. Ensure your reticle is placed  within the bounds of this square. Missiles are very effective, but only have a short range. Be sure to close the distance with your enemy before use.
 
-Levels 
+**Levels**
 
 Level 1 - Offence -> Destroy enemy platform, set back their advances.
 Level 2 - Defence -> They are trying to retaliate, defend the Eco-Platform. It’s destruction will wreak havoc on local biomes.
