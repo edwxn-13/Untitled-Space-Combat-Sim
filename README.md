@@ -4,11 +4,11 @@ Fabula Nova Corp’s reign of terror has finally reached Earth. They are install
 
 Controls
 
-![controls](https://imgur.com/a/bjfgk5U)
+![controls](https://imgur.com/bjfgk5U.jpg)
 
 UI GUIDE
 
-![UI Preview](https://imgur.com/a/kTyI5Wc)
+![UI Preview](https://imgur.com/kTyI5Wc.jpg)
 
 1. Throttle meter - displays current throttle value.
 
