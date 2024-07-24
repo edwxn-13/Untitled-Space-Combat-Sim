@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5524144027053704954
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8179874778067009630}
+  - component: {fileID: 1470949914740875078}
+  m_Layer: 0
+  m_Name: SceneController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8179874778067009630
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5524144027053704954}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 60.085674, y: -45.53571, z: -30.016964}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1470949914740875078
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5524144027053704954}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8078defab09ea433d8c8af5790f13403, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  explosion: []
+  bulletHIt:
+  - {fileID: 8300000, guid: 4b7ee90704962491f9623a4f25a83c0c, type: 3}
+  - {fileID: 8300000, guid: 6e9f18f177ab84545bdac2c20200a60e, type: 3}
+  - {fileID: 8300000, guid: 9ca3583dfcb79466d95df55e8f44566a, type: 3}
+  - {fileID: 8300000, guid: ca6ffa82b6aa94be8be6f9e5be575fe4, type: 3}
+  - {fileID: 8300000, guid: 0b94db4fd21764109b30421aa5458f7d, type: 3}
+  - {fileID: 8300000, guid: 055cbe98f058c4370a8806d8c3a313fd, type: 3}
+  - {fileID: 8300000, guid: 94fc5e4a95bdd43509a522e3d22ee694, type: 3}
+  - {fileID: 8300000, guid: d809b400be15048f8a432ecb971a8f33, type: 3}
+  - {fileID: 8300000, guid: 81d428700cf9b45849ed50a60ed8ffa0, type: 3}
+  - {fileID: 8300000, guid: 2258e7180218045b195c0f60cbaf8d62, type: 3}
+  - {fileID: 8300000, guid: eb14af62a4d474c7ba31c2be9ffd8b1c, type: 3}
+  - {fileID: 8300000, guid: d77e487fd990e40e6b7d6c6fd0560e9c, type: 3}
+  shieldHit:
+  - {fileID: 8300000, guid: 994b8851199514e218030469f584942a, type: 3}
+  - {fileID: 8300000, guid: 25513cb71f02543c389eaa0db9ef2bcd, type: 3}
+  - {fileID: 8300000, guid: 83a70e22ea0dc412ea2979386406e3e2, type: 3}
+  - {fileID: 8300000, guid: f5e1371e2af8d48299b3d9852264a4ec, type: 3}
+  - {fileID: 8300000, guid: 93f1750fd35354e98bc9d7f899a49386, type: 3}
+  - {fileID: 8300000, guid: 55eb2f779561745c287b2c3867e13d93, type: 3}
+  - {fileID: 8300000, guid: 1f20f01e3be5f4b6ca561de6e9ebe67a, type: 3}
+  - {fileID: 8300000, guid: dc2d29726612c46e78c582fb7d3c57b6, type: 3}
+  collision: []
+  ship_explode: {fileID: 8300000, guid: b21f5ed678ff74ba0ac4ed0052ae873e, type: 3}

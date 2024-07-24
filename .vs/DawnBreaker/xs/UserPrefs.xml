@@ -1,0 +1,67 @@
+﻿<Properties StartupConfiguration="{F43DF104-D570-3E78-6882-4A3E70A7C292}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GamePlay/Thruster/Weaponary/WeaponScripts/AutomaticWeapon.cs">
+    <Files>
+      <File FileName="Assets/Player/Scripts/ChaseCam.cs" />
+      <File FileName="Assets/GamePlay/Asteroid/AsteroidController.cs" />
+      <File FileName="Assets/Player/Scripts/ShipController.cs" />
+      <File FileName="Assets/GamePlay/AIs/CompController.cs" />
+      <File FileName="Assets/GamePlay/Thruster/ThrusterBehaviou.cs" />
+      <File FileName="Assets/GamePlay/Thruster/Weaponary/Bullet.cs" Line="71" Column="85" />
+      <File FileName="Assets/GamePlay/Thruster/Weaponary/DamageSys/DamageEngine.cs" />
+      <File FileName="Assets/GamePlay/Thruster/Weaponary/WeaponComputer.cs" />
+      <File FileName="Assets/GamePlay/Thruster/Weaponary/WeaponScripts/AutomaticWeapon.cs" Line="80" Column="69" />
+      <File FileName="Assets/GamePlay/Thruster/Weaponary/WeaponScripts/MissileWeapon.cs" />
+      <File FileName="Assets/GamePlay/FactionSys.cs" />
+      <File FileName="Assets/GamePlay/AIs/CompWeaponComputer.cs" />
+      <File FileName="Assets/GamePlay/Hud/ObjectiveHUD.cs" />
+      <File FileName="Assets/GamePlay/Asteroid/AstroidField.cs" />
+      <File FileName="Assets/GamePlay/Thruster/Weaponary/DamageSys/Shields.cs" />
+      <File FileName="Assets/GamePlay/Hud/MarkerScript.cs" />
+      <File FileName="Assets/GamePlay/Hud/AllyScript.cs" />
+      <File FileName="Assets/GamePlay/Hud/OverheatMeter.cs" />
+      <File FileName="Assets/GamePlay/Hud/ShieldMeter.cs" />
+      <File FileName="Assets/GamePlay/Hud/HealthMeter.cs" />
+      <File FileName="Assets/SceneController.cs" />
+      <File FileName="Assets/GamePlay/Hud/TargetLockHUD.cs" />
+      <File FileName="Assets/GamePlay/Hud/VelocityIndicator.cs" />
+      <File FileName="Assets/GamePlay/Hud/CursorHUD.cs" />
+      <File FileName="Assets/GamePlay/MainMenu.cs" />
+      <File FileName="Assets/GamePlay/Hud/ThrottleMeter.cs" />
+      <File FileName="Assets/GamePlay/Hud/TargetInfoManager.cs" />
+      <File FileName="Assets/GamePlay/Audio/CabSpeakerManager.cs" />
+      <File FileName="Assets/GamePlay/Hud/SpeedometerManager.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DawnBreaker" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="GamePlay" expanded="True">
+                <Node name="AIs" expanded="True" />
+                <Node name="Asteroid" expanded="True" />
+                <Node name="Audio" expanded="True" />
+                <Node name="Hud" expanded="True" />
+                <Node name="Thruster" expanded="True">
+                  <Node name="Weaponary" expanded="True">
+                    <Node name="DamageSys" expanded="True" />
+                    <Node name="WeaponScripts" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Player" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="96234c82-b673-4cdf-8c0e-00af864a0efc" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
